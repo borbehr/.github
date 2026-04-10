@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://borbehr.hstn.me/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://borbehr.eu.org/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://t.me/borBeHR"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://guns.lol/borbehr"><img src="https://img.shields.io/badge/Guns.lol-borbehr-black?style=for-the-badge&logo=target&logoColor=white" alt="Guns.lol"></a>
 </p>
@@ -20,7 +20,6 @@
 ### 🛠 Мой стек
 - **Languages:** C#, Python, JavaScript (Node.js), PHP
 - **Infrastructure:** Linux, Pterodactyl Panel, MySQL
-- **Projects:** borBeHR Panel, Blueprint extensions
 
 ---
 
@@ -32,7 +31,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/borBeHR/borBeHR/main/footer.png" onerror="this.style.display='none'">
+
   © 2026 borBeHR — future is here
-</p>
